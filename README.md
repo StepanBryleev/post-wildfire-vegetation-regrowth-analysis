@@ -9,6 +9,6 @@ In this project, we explore the post-wildfire vegetation regrowth dynamics for t
 2. Landsat 8 Surface Reflectance data
 
 # Project Workflow
-Project workflow is subject to update. To see a proposal section and preliminary results run the *vegetation_regrowth_analysis_blog.ipynb* notebook wth the *reflectance.py* module.
+Project workflow is subject to update. To see a proposal section and preliminary results clone this repository and run the *vegetation_regrowth_analysis_blog.ipynb* notebook wth the *reflectance.py* module.
 
 **Attention!** For running the .ipynb file on your computer assign the correct file path to your working and data directories!
