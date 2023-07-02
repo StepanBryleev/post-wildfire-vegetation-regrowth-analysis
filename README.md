@@ -6,7 +6,7 @@ In this project, we explore the post-wildfire vegetation regrowth dynamics for t
 
 ## Data
 1. NEON Imaging Spectrometer Reflectance data
-2. Landsat 8 Surface Reflectance data
+2. Landsat 8 / Sentinel Surface Reflectance data
 
 # Project Workflow
 Project workflow is subject to update. To see a proposal section and preliminary results clone this repository and run the *vegetation_regrowth_analysis_blog.ipynb* notebook wth the *reflectance.py* module.
