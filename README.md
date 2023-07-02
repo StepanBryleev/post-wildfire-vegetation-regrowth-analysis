@@ -9,10 +9,10 @@ In this project, we explore the post-wildfire vegetation regrowth dynamics for t
 2. Landsat 8 / Sentinel Surface Reflectance data
 
 ## Run the workflow
+### Google Earth Engine
 First, visit [Google Earth Engine](https://earthengine.google.com/) official web-page to learn more about GEE and GEE Code Editor. GEE Code Editor is a web-based IDE for the Earth Engine JavaScript API. This repository includes .ipynb files containg JS code for analysing and plotting reflectance data. You can find these files in the **notebooks** folder.
 
 ### Python environment
-
 To run Python files you need to have python environment installed on your computer. To learn how to install a conda environment from a .yml file that contains a list of desired Python packages visit [this page](https://www.earthdatascience.org/workshops/setup-earth-analytics-python/setup-python-conda-earth-analytics-environment/).
 
 ## Project Workflow
