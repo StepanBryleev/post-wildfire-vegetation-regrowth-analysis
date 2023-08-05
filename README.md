@@ -1,12 +1,11 @@
 # Post-wildfire vegetation regrowth analysis
-This is an [Earth Lab](https://earthlab.colorado.edu/) Certificate project by Stepan Bryleev studying post-wildfire vegetation regrowth dynamics and is a continuation of the [Post-Wildfire recovery](https://github.com/AreteY/post-wildfire-recovery) research by [Heidi Yun](https://github.com/AreteY).
+This is an [Earth Lab](https://earthlab.colorado.edu/) Certificate project by [Stepan Bryleev](https://github.com/StepanBryleev) studying post-wildfire vegetation regrowth dynamics and is a continuation of the [Post-Wildfire recovery](https://github.com/AreteY/post-wildfire-recovery) research by [Heidi Yun](https://github.com/AreteY).
 
 ## Project goal 
 In this project, we explore the post-wildfire vegetation regrowth dynamics for the 2016 Chimney Tops 2 Fire perimeter by using Landsat, NEON LiDAR and NEON hyperspectral reflectance data. All analysis for NEON and Landsat data is performed in a GEE. So our second goal is to create a tutorial for NEON's website which can help Earth scientists to understand the fundamentals of using GEE when working with NEON reflectance data for studying wildfires.
 
 ## GEE project page
 To run project workflow use this link:
-
 
 ## Data
 1. [**NEON Imaging Spectrometer Directional Reflectance data**](https://data.neonscience.org/data-products/DP1.30006.001)
@@ -38,5 +37,11 @@ To run .ipynb and other python files you need to have python environment install
 ### Project Workflow
 This repository includes .ipynb files containg JavaScript code from GEE for analysing and plotting NEON and Landsat data. You can find these .ipynb files in the ```notebooks``` folder.
 
-
 **Attention!** Project workflow is subject to update. To see a proposal section and preliminary results clone this repository and run the *vegetation_regrowth_analysis_blog.ipynb* notebook.
+
+
+## License 
+The **Post-wildfire vegetation regrowth analysis** project is under the [MIT](https://github.com/StepanBryleev/post-wildfire-vegetation-regrowth-analysis/blob/main/LICENSE).
+
+## Citation
+**Subject to update**
