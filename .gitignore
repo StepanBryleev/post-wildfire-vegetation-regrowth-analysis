@@ -8,3 +8,5 @@ __pycache__/
 file.txt
 
 .DS_Store
+
+.gitignore.swp
