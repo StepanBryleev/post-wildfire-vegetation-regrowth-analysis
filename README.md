@@ -17,10 +17,12 @@ To run project workflow use this link:
 - **Reference:** Landsat Level-2 Surface Reflectance Science Product, courtesy of the U.S. Geological Survey. Vermote, E., Justice, C., Claverie, M., & Franch, B. (2016). Preliminary analysis of the performance of the Landsat 8/OLI land surface reflectance product. Remote Sensing of Environment. http://dx.doi.org/10.1016/j.rse.2016.04.008.
 Dataset accessed from [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2).
 
-4. **Chimney Tops 2 Fire Perimeter**
-- **Reference:** MTBS Data Access: Fire Level Geospatial Data. (2022, February - last revised). MTBS Project (USDA Forest Service/U.S. Geological Survey). Available: https://mtbs.gov/direct-download. Data accessed June 1, 2023. \
-Available for download from [Post-Wildfire Recovery](https://github.com/AreteY/post-wildfire-recovery) repository as [Release v1.0.1](https://github.com/AreteY/post-wildfire-recovery/releases) ```chimtops2-boundary```.
+4. **Great Smoky Mountains National Park Perimeter**
+- **Reference:** National Park Service - Land Resources Division. [Great Smoky Mountains National Park Boundary](https://grsm-nps.opendata.arcgis.com/maps/ab7a3b0981da4b40b97733abdc1a366b/about). \
+Data accessed June 1, 2023. More data available: https://grsm-nps.opendata.arcgis.com.
 
+5. **Chimney Tops 2 Fire Perimeter**
+- **Reference:** MTBS Data Access: Fire Level Geospatial Data. (2022, February - last revised). MTBS Project (USDA Forest Service/U.S. Geological Survey).  Data accessed June 1, 2023. Available for download from [Post-Wildfire Recovery](https://github.com/AreteY/post-wildfire-recovery) repository as [Release v1.0.1](https://github.com/AreteY/post-wildfire-recovery/releases) ```chimtops2-boundary```. Original source: https://mtbs.gov/direct-download.
 
 
 ## Run the workflow
