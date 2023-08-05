@@ -4,6 +4,10 @@ This is an Earth Lab Certificate project by Stepan Bryleev studying post-wildfir
 ## Project goal 
 In this project, we explore the post-wildfire vegetation regrowth dynamics for the 2016 Chimney Tops 2 Fire perimeter by using hyperspectral reflectance data. All analysis is performed in a GEE and can help beginner researchers to understand the fundamentals of using GEE for studying wildfires when working with reflectance data.
 
+## GEE project page
+To run project workflow use this link:
+(Not availible yet)
+
 ## Data
 1. **NEON Imaging Spectrometer** reflectance data
 2. **Landsat 8 / Sentinel** surface reflectance data
