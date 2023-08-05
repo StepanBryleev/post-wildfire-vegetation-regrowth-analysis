@@ -6,7 +6,7 @@ In this project, we explore the post-wildfire vegetation regrowth dynamics for t
 
 ## GEE project page
 To run project workflow use this link:
-(Not availible yet)
+
 
 ## Data
 1. **NEON Imaging Spectrometer** reflectance data
