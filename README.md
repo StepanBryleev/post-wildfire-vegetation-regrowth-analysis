@@ -25,12 +25,18 @@ Data accessed June 1, 2023. More data available: https://grsm-nps.opendata.arcgi
 - **Reference:** MTBS Data Access: Fire Level Geospatial Data. (2022, February - last revised). MTBS Project (USDA Forest Service/U.S. Geological Survey).  Data accessed June 1, 2023. Available for download from [Post-Wildfire Recovery](https://github.com/AreteY/post-wildfire-recovery) repository as [Release v1.0.1](https://github.com/AreteY/post-wildfire-recovery/releases) ```chimtops2-boundary```. Original source: https://mtbs.gov/direct-download.
 
 
+## Project Workflow 
+Post-wildfire vegetation regrowth analysis is performed for a 36.35 km2 area within the burn perimeter in Great Smokey Mountains. Regrowth dynamics is characterized using Vegetation Indices (such as NBR, NDVI, NDMI, MSI) and Canopy Height Models(CHMs) of difference. Each index and CHM was calculated in a separate file of GEE project. Then all the code from GEE was duplicated in separated .ipynb files and saved in the ```notebooks``` folder of this repository. To run the original GEE workflow just follow this link - **not availible yet**. To reproduce the analysis on your computer follow instructions below. 
+
 ## Run the workflow
 ### Google Earth Engine
-First, visit [Google Earth Engine](https://earthengine.google.com/) official web-page to learn more about GEE and GEE Code Editor. GEE Code Editor is a web-based IDE for the Earth Engine JavaScript API. This repository includes .ipynb files containg JS code for analysing and plotting reflectance data. You can find these files in the **notebooks** folder.
+First, visit [Google Earth Engine](https://earthengine.google.com/) official web-page to learn more about GEE and [GEE Code Editor](https://developers.google.com/earth-engine/guides/playground). GEE Code Editor is a web-based IDE for the Earth Engine JavaScript API. Detailed [documentation and guides](https://developers.google.com/earth-engine/) are written for all objects and methods which can be used for JavaScipt in the Code Editor or for Python in Colab (where applicable).
 
 ### Python environment
-To run Python files you need to have python environment installed on your computer. To learn how to install a conda environment from a .yml file that contains a list of desired Python packages visit [this page](https://www.earthdatascience.org/workshops/setup-earth-analytics-python/setup-python-conda-earth-analytics-environment/).
+To run .ipynb and other python files you need to have python environment installed on your computer. To learn how to install a conda environment from a .yml file that contains a list of desired Python packages visit [this page](https://www.earthdatascience.org/workshops/setup-earth-analytics-python/setup-python-conda-earth-analytics-environment/).
 
 ### Project Workflow
+This repository includes .ipynb files containg JavaScript code from GEE for analysing and plotting NEON and Landsat data. You can find these .ipynb files in the ```notebooks``` folder.
+
+
 **Attention!** Project workflow is subject to update. To see a proposal section and preliminary results clone this repository and run the *vegetation_regrowth_analysis_blog.ipynb* notebook.
