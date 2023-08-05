@@ -1,5 +1,5 @@
 # Post-wildfire vegetation regrowth analysis
-This is an [Earth Lab](https://earthlab.colorado.edu/) Certificate project by [Stepan Bryleev](https://github.com/StepanBryleev) studying post-wildfire vegetation regrowth dynamics and is a continuation of the [Post-Wildfire recovery](https://github.com/AreteY/post-wildfire-recovery) research by [Heidi Yun](https://github.com/AreteY).
+This is an [Earth Lab](https://earthlab.colorado.edu/) Certificate project by [Stepan Bryleev](https://github.com/StepanBryleev) studying post-wildfire vegetation regrowth dynamics and is a continuation of the [Post-wildfire recovery](https://github.com/AreteY/post-wildfire-recovery) research by [Heidi Yun](https://github.com/AreteY).
 
 ## Project goal 
 In this project, we explore the post-wildfire vegetation regrowth dynamics for the 2016 Chimney Tops 2 Fire perimeter by using Landsat, NEON LiDAR and NEON hyperspectral reflectance data. All analysis for NEON and Landsat data is performed in a GEE. So our second goal is to create a tutorial for NEON's website which can help Earth scientists to understand the fundamentals of using GEE when working with NEON reflectance data for studying wildfires.
