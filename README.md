@@ -37,7 +37,7 @@ To run .ipynb and other python files you need to have python environment install
 ### Run the code
 This repository includes .ipynb files containg JavaScript code from GEE for analysing and plotting NEON and Landsat data. You can find these .ipynb files in the ```notebooks``` folder. Create your own GEE project and use completed JavaScript code from .ipynb files of this repository to reproduce this project.
 
-First, activate your conda environment. Next, proceed to project directory and open ```notebooks``` directory. Then use Jupyter Notebook to open any .ipynb file in your default web browser. As an example, we have opened the notebook nis_grsm_chm.ipynb below: 
+First, activate your conda environment. Next, proceed to project directory and open ```notebooks``` directory. Then use Jupyter Notebook to open any .ipynb file in your default web browser. As an example, we have opened the notebook ```nis_grsm_chm.ipynb``` below:
 ```
 $ conda activate earth-analytics-pyhton
 $ cd post-wildfire-vegetation-regrowth-analysis
