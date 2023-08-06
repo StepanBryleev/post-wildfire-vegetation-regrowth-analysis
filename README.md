@@ -34,8 +34,23 @@ First, visit [Google Earth Engine](https://earthengine.google.com/) official web
 ### Python environment
 To run .ipynb and other python files you need to have python environment installed on your computer. To learn how to install a conda environment from a .yml file that contains a list of desired Python packages visit [this page](https://www.earthdatascience.org/workshops/setup-earth-analytics-python/setup-python-conda-earth-analytics-environment/).
 
-### Project Workflow
-This repository includes .ipynb files containg JavaScript code from GEE for analysing and plotting NEON and Landsat data. You can find these .ipynb files in the ```notebooks``` folder.
+### Run the code
+This repository includes .ipynb files containg JavaScript code from GEE for analysing and plotting NEON and Landsat data. You can find these .ipynb files in the ```notebooks``` folder. Create your own GEE project and use completed JavaScript code from .ipynb files of this repository to reproduce this project.
+
+First, activate your conda environment. Next, proceed to project directory and open ```notebooks`` directory. Then use Jupyter Notebook to open any .ipynb file in your default web browser. As an example, we have opened the notebook nis_grsm_chm.ipynb below: 
+```
+$ conda activate earth-analytics-pyhton
+$ cd post-wildfire-vegetation-regrowth-analysis
+$ cd notebooks
+$ jupyter notebook nis_grsm_chm.ipynb
+```    
+- Run the notebook ```nis_grsm_chm.ipynb``` to find the code for calculating and visualizing interannual CHMs for NEON Lidar data in GEE.
+- Run the notebook ```nis_grsm_nbr.ipynb``` and ```ls_grsm_nbr.ipynb``` to find the code for calculating and visualizing interannual NBR values in GEE for NEON and Landsat reflectance data, respectively.
+- Run the notebook ```nis_grsm_ndvi.ipynb``` and ```ls_grsm_ndvi.ipynb``` to find the code for calculating and visualizing interannual NDVI values in GEE for NEON and Landsat reflectance data, respectively.
+- Run the notebook ```nis_grsm_ndmi.ipynb``` and ```ls_grsm_ndmi.ipynb``` to find the code for calculating and visualizing interannual NDMI values in GEE for NEON and Landsat reflectance data, respectively.
+- Run the notebook ```nis_grsm_msi.ipynb``` and ```ls_grsm_msi.ipynb``` to find the code for calculating and visualizing interannual MSI values in GEE for NEON and Landsat reflectance data, respectively.
+
+All the project code in .ipynb files is written using JavaScript format. Just copy the code from the .ipynb file and paste into your GEE project file. 
 
 **Attention!** Project workflow is subject to update. To see a proposal section and preliminary results clone this repository and run the *vegetation_regrowth_analysis_blog.ipynb* notebook.
 
