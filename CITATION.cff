@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Post-wildfire vegetation regrowth
+message: '"If you use this software, please cite it as below"'
+type: dataset
+authors:
+  - given-names: Stepan
+    family-names: Bryleev
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8222284
+repository-code: >-
+  https://github.com/StepanBryleev/post-wildfire-vegetation-regrowth-analysis/tree/main
+license: MIT
+version: '1.0'
