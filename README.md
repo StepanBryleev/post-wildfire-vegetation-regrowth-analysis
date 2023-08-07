@@ -60,4 +60,19 @@ All the project code in .ipynb files is written using JavaScript format. Just co
 The **Post-wildfire vegetation regrowth analysis** project is under the [MIT](https://github.com/StepanBryleev/post-wildfire-vegetation-regrowth-analysis/blob/main/LICENSE) license.
 
 ## Citation
-**Subject to update**
+```
+cff-version: 1.2.0
+title: Post-wildfire vegetation regrowth
+message: '"If you use this software, please cite it as below"'
+type: dataset
+authors:
+  - given-names: Stepan
+    family-names: Bryleev
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8222284
+repository-code: >-
+  https://github.com/StepanBryleev/post-wildfire-vegetation-regrowth-analysis/tree/main
+license: MIT
+version: '1.0'
+```    
