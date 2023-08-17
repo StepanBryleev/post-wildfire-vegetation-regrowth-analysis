@@ -10,9 +10,9 @@ To run the project workflow use this link:
 
 ## Data
 1. [**NEON Imaging Spectrometer Directional Reflectance data**](https://data.neonscience.org/data-products/DP1.30006.001)
-- **Reference:** NEON (National Ecological Observatory Network). Spectrometer orthorectified surface directional reflectance - mosaic (DP3.30006.001), RELEASE-2023. https://doi.org/10.48443/wzwj-nm11. Dataset accessed from https://data.neonscience.org on August 5, 2023
+- **Reference:** NEON (National Ecological Observatory Network). Spectrometer orthorectified surface directional reflectance - mosaic (DP3.30006.001), RELEASE-2023. https://doi.org/10.48443/wzwj-nm11. Dataset accessed from https://data.neonscience.org on June 1, 2023
 2. [**NEON Lidar Ecosystem Structure data**](https://data.neonscience.org/data-products/DP3.30015.001)
-- **Reference:** NEON (National Ecological Observatory Network). Ecosystem structure (DP3.30015.001), RELEASE-2023. https://doi.org/10.48443/y26y-sj42. Dataset accessed from https://data.neonscience.org on August 5, 2023 
+- **Reference:** NEON (National Ecological Observatory Network). Ecosystem structure (DP3.30015.001), RELEASE-2023. https://doi.org/10.48443/y26y-sj42. Dataset accessed from https://data.neonscience.org on June 1, 2023 
 3. [**Landsat 8 Surface Reflectance data**](https://www.usgs.gov/landsat-missions/landsat-8)
 - **Reference:** Landsat Level-2 Surface Reflectance Science Product, courtesy of the U.S. Geological Survey. Vermote, E., Justice, C., Claverie, M., & Franch, B. (2016). Preliminary analysis of the performance of the Landsat 8/OLI land surface reflectance product. Remote Sensing of Environment. http://dx.doi.org/10.1016/j.rse.2016.04.008.
 Dataset accessed from [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2).
