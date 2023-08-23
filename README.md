@@ -6,7 +6,7 @@ In this project, we explore the post-wildfire vegetation regrowth dynamics for t
 
 ## GEE project page
 To run the project workflow use these link for NEON and LANDSAT data:
-https://code.earthengine.google.com/?accept_repo=users/stbr4432/NEON
+https://code.earthengine.google.com/?accept_repo=users/stbr4432/NEON   
 https://code.earthengine.google.com/?accept_repo=users/stbr4432/LANDSAT
 
 ## Data
