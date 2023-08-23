@@ -7,6 +7,10 @@ __pycache__/
 # Ignore file
 file.txt
 
+vegetation_regrowth_analysis_blog.ipynb
+
+vegetation_regrowth_analysis_blog.html
+
 .DS_Store
 
 .gitignore.swp
