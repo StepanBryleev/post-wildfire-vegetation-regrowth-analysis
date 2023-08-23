@@ -38,6 +38,8 @@ To run .ipynb and other python files you need to have python environment install
 ### Run the code
 This repository includes .ipynb files containg JavaScript code from GEE for analysing and plotting NEON and Landsat data. You can find these .ipynb files in the ```notebooks``` folder. Create your own GEE project and use completed JavaScript code from .ipynb files of this repository to reproduce this project.
 
+**Attention!** To plot GRSM National Park and Chimney Tops 2 Fire boundaries you need to add corresponding data files into the Assets tab in your GEE project. You can find these data files in the ```boundaries``` folder of present repository. To learn how to manage GEE assets please visit this GEE [Managing Assets](https://developers.google.com/earth-engine/guides/asset_manager) page.
+
 First, activate your conda environment. Next, proceed to project directory and open ```notebooks``` directory. Then use Jupyter Notebook to open any .ipynb file in your default web browser. As an example, we have opened the notebook ```nis_grsm_chm.ipynb``` below:
 ```
 $ conda activate earth-analytics-pyhton
@@ -52,9 +54,6 @@ $ jupyter notebook nis_grsm_chm.ipynb
 - Run the notebook ```nis_grsm_msi.ipynb``` and ```ls_grsm_msi.ipynb``` to find the code for calculating and visualizing interannual MSI values in GEE for NEON and Landsat reflectance data, respectively.
 
 All the project code in .ipynb files is written using JavaScript format. Just copy the code from the .ipynb file and paste into your GEE project file. 
-
-**Attention!** Project workflow is subject to update. To see a proposal section and preliminary results clone this repository and run the *vegetation_regrowth_analysis_blog.ipynb* notebook.
-
 
 ## License 
 The **Post-wildfire vegetation regrowth analysis** project is under the [MIT](https://github.com/StepanBryleev/post-wildfire-vegetation-regrowth-analysis/blob/main/LICENSE) license.
