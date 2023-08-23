@@ -4,11 +4,6 @@ This is an [Earth Lab](https://earthlab.colorado.edu/) Certificate project by [S
 ## Project goal 
 In this project, we explore the post-wildfire vegetation regrowth dynamics for the 2016 Chimney Tops 2 Fire perimeter by using NEON LiDAR, NEON reflectance and Landsat reflectance data. All analysis for NEON and Landsat data is performed in a GEE. So our second goal is to create a tutorial for NEON's website which can help Earth scientists to understand the fundamentals of using GEE when working with NEON reflectance data for studying wildfires.
 
-## GEE project page
-To run the project workflow use these link for NEON and LANDSAT data:
-https://code.earthengine.google.com/?accept_repo=users/stbr4432/NEON   
-https://code.earthengine.google.com/?accept_repo=users/stbr4432/LANDSAT
-
 ## Data
 1. [**NEON Imaging Spectrometer Directional Reflectance data**](https://data.neonscience.org/data-products/DP1.30006.001)
 - **Reference:** NEON (National Ecological Observatory Network). Spectrometer orthorectified surface directional reflectance - mosaic (DP3.30006.001), RELEASE-2023. https://doi.org/10.48443/wzwj-nm11. Dataset accessed from https://data.neonscience.org on June 1, 2023
