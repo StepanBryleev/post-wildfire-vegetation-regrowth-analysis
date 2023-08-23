@@ -40,7 +40,7 @@ This repository includes .ipynb files containg JavaScript code from GEE for anal
 
 **Attention!** To plot GRSM National Park and Chimney Tops 2 Fire boundaries you need to add corresponding data files into the Assets tab in your GEE project. You can find these data files in the ```boundaries``` folder of present repository. To learn how to manage GEE assets please visit this GEE [Managing Assets](https://developers.google.com/earth-engine/guides/asset_manager) page.
 
-First, activate your conda environment. Next, proceed to project directory and open ```notebooks``` directory. Then use Jupyter Notebook to open any .ipynb file in your default web browser. As an example, we have opened the notebook ```nis_grsm_chm.ipynb``` below:
+First, activate your conda environment. Next, proceed to the project directory and then open ```notebooks``` directory. Use Jupyter Notebook to open any .ipynb file in your default web browser. As an example, we have opened the notebook ```nis_grsm_chm.ipynb``` below:
 ```
 $ conda activate earth-analytics-pyhton
 $ cd post-wildfire-vegetation-regrowth-analysis
