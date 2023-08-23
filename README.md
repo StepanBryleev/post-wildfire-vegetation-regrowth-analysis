@@ -53,7 +53,7 @@ $ jupyter notebook nis_grsm_chm.ipynb
 - Run the notebook ```nis_grsm_ndmi.ipynb``` and ```ls_grsm_ndmi.ipynb``` to find the code for calculating and visualizing interannual NDMI values in GEE for NEON and Landsat reflectance data, respectively.
 - Run the notebook ```nis_grsm_msi.ipynb``` and ```ls_grsm_msi.ipynb``` to find the code for calculating and visualizing interannual MSI values in GEE for NEON and Landsat reflectance data, respectively.
 
-All the project code in .ipynb files is written using JavaScript format. Just copy the code from the .ipynb file and paste into your GEE project file. 
+All the project code in .ipynb files is written using JavaScript programming language. Just copy the code from the .ipynb file and paste into your GEE project file to make it work.
 
 ## License 
 The **Post-wildfire vegetation regrowth analysis** project is under the [MIT](https://github.com/StepanBryleev/post-wildfire-vegetation-regrowth-analysis/blob/main/LICENSE) license.
