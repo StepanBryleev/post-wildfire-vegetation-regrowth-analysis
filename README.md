@@ -26,7 +26,7 @@ Data accessed June 1, 2023. More data available: https://grsm-nps.opendata.arcgi
 
 
 ## Project Workflow 
-Post-wildfire vegetation regrowth analysis is performed for a 36.35 km2 area within the burn perimeter in Great Smokey Mountains. Regrowth dynamics is characterized using Vegetation Indices (such as NBR, NDVI, NDMI, MSI) and Canopy Height Models(CHMs) of difference. Each index and CHM was calculated in a separate file of GEE project. Then all the code from GEE was duplicated in separated .ipynb files and saved in the ```notebooks``` folder of this repository. To run the original GEE workflow just follow this link - **not availible yet**. To reproduce the analysis on your computer follow instructions below. 
+Post-wildfire vegetation regrowth analysis is performed for a 36.35 km2 area within the burn perimeter in Great Smokey Mountains. Regrowth dynamics is characterized using Vegetation Indices (such as NBR, NDVI, NDMI, MSI) and Canopy Height Models(CHMs) of difference. Each index and CHM was calculated in a separate file of GEE project. Then all the code from GEE was duplicated in separated .ipynb files and saved in the ```notebooks``` folder of this repository. To reproduce our analysis on your computer please follow instructions below.
 
 ## Run the workflow
 ### Google Earth Engine
